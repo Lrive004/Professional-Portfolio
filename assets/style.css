@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+nav {
+   background-color: #2283c3;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
