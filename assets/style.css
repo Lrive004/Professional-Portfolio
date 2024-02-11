@@ -24,7 +24,13 @@ p {
     text-align: center;
 }
 
-img {
+.hide {
+    display: none;
+}
+
+.first-img-styling {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin-bottom: 10px;
 }
